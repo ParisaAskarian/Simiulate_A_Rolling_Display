@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:5D6E6610
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:6 "C:\cvavr\inc\lcd.h"
+NODE:V LEVEL:0 LINE:8 "text -> RAM:????"
+NODE:F LEVEL:0 LINE:11 "shift_left(unsigned char [16] line)"
+NODE:F LEVEL:0 LINE:22 "show_on_lcd(void)"
+NODE:F LEVEL:0 LINE:33 "finall_show(void)"
+NODE:F LEVEL:0 LINE:65 "main(void)"
